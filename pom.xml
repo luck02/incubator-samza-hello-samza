@@ -39,7 +39,7 @@ under the License.
     <dependencies>
       <dependency>
         <groupId>samza</groupId>
-        <artifactId>samza-wikipedia</artifactId>
+        <artifactId>samza-jobs</artifactId>
         <version>0.7.0</version>
       </dependency>
       <dependency>
@@ -115,7 +115,7 @@ under the License.
 
   <modules>
     <module>samza-job-package</module>
-    <module>samza-wikipedia</module>
+    <module>samza-jobs</module>
   </modules>
 
   <developers>

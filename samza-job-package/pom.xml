@@ -34,7 +34,7 @@ under the License.
   <dependencies>
     <dependency>
       <groupId>samza</groupId>
-      <artifactId>samza-wikipedia</artifactId>
+      <artifactId>samza-jobs</artifactId>
       <scope>runtime</scope>
     </dependency>
     <dependency>

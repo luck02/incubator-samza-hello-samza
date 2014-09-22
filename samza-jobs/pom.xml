@@ -27,7 +27,7 @@ under the License.
     <version>0.7.0</version>
   </parent>
 
-  <artifactId>samza-wikipedia</artifactId>
+  <artifactId>samza-jobs</artifactId>
   <name>Samza Wikipedia Example</name>
   <packaging>jar</packaging>
 
